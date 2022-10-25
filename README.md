@@ -1,4 +1,4 @@
-# cMLr3asK
+# Piano Note Counter
 
 ## About Scrimba
 
